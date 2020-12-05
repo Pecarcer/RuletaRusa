@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ruleta Rusa</string>
+    <string name="btnIniciar">Iniciar</string>
+    <string name="btUno">1</string>
+    <string name="btDos">2</string>
+    <string name="btnTres">3</string>
+    <string name="btnCuatro">4</string>
+    <string name="btnCinco">5</string>
+    <string name="btnSeis">6</string>
+    <string name="btnReiniciar">Reiniciar</string>
+    <string name="imagen_resultado">Cara de un personaje reflejando el resultado de la selección de botón</string>
+    <string name="btCreditos">Créditos</string>
+    <string name="btVolver">Volver</string>
+    <string name="tvInfo">App creada por José Carmona Cervera para el Módulo de Horas de Libre Configuración del FP de Desarrollo de Aplicaciones Web. Versión 1.0</string>
+    <string name="title_activity_creditos">Creditos</string>
+    <string name="infoIcono">Icono de la cámara de un revolver</string>
+</resources>
